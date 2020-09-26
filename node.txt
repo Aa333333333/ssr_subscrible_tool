@@ -37,10 +37,7 @@ trojan://kskDqbcyEO0y3Mt0@www.zhanan08.online:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8
 trojan://pC9Uh3ysdS47cKvE@www.zhanan13.bid:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%8A%B1167
 #花卷84
 trojan://CY6zw5phbGvXxZ2A@www.zx06.top:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%8A%B184
-#花卷19
-trojan://mrVv5iwqAeikUS2n@www.zx08.party:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%8A%B119
-#花卷24
-trojan://bPogzUUSbGqyh5zk@www.zx09.loan:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%8A%B124
+
 
 
 
