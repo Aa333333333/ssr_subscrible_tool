@@ -9,8 +9,6 @@ trojan://sXS3Pig5g9Og2cb0@www.zx11.loan:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF
 #腾171
 trojan://5oHbyCYHiNSlVy4W@www.zx05.loan:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%85%BE171
 
-#腾43
-trojan://UPC4o1RmO5WmHN1Q@www.zx01.xyz:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%85%BE43
 #腾181
 trojan://neOzD1RG69SWvDXA@www.zx02.top:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%85%BE181
 #腾79
@@ -22,8 +20,6 @@ trojan://zPGsdLAujCZC46so@www.zx04.men:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%
 trojan://m7dODCcqVWyiRV8X@www.zhanan14.icu:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%87%8E131
 #野草云132
 trojan://hfBpS0Dtoij4JXnF@www.zhanan16.date:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%87%8E132
-#野草云133
-trojan://a2eqKzgY9hcLjqCg@www.zhanan20.loan:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%87%8E133
 #野草云134
 trojan://0WMFm54ZPMNzlXdk@www.zhanan17.men:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%87%8E134
 #企鹅169
